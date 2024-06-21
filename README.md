@@ -26,4 +26,4 @@ chainlit run chat_agent.py
 ```
 
 ## Demo
-
+<img src="examples/result_before_index.png" alt="before_index" width="200"/>
