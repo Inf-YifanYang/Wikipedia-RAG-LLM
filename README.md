@@ -28,12 +28,12 @@ chainlit run chat_agent.py
 ## Demo
 LLM chatbot before RAG generate out-dated response:
 
-<img src="examples/result_before_index.png" alt="before_index" width="500"/>
+<img src="examples/result_before_index.png" alt="before_index" width="700"/>
 
 With the help of Wikipedia-based Retrieval-Augmented Generation (RAG), LLM chatbots can now generate accurate and up-to-date responses:
 
-<img src="examples/result_after_index.png" alt="after_index" width="500"/>
+<img src="examples/result_after_index.png" alt="after_index" width="700"/>
 
 The program also demonstrates the RAG process by showing how the LLM interacts with Wikipedia search and inference logic.
 
-<img src="examples/inference_process.png" alt="after_index" width="500"/>
+<img src="examples/inference_process.png" alt="after_index" width="700"/>
