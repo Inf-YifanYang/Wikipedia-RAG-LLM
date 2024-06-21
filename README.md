@@ -15,10 +15,10 @@ To successfully run the code and reproduce the results, the following packages a
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/Inf-YifanYang/Wikipedia-RAG-LLM.git
 
 # Change to the project directory
-cd your-repo-name
+cd Wikipedia-RAG-LLM
 
-# Install dependencies
-npm install
+# Run program
+chainlit run chat_agent.py
