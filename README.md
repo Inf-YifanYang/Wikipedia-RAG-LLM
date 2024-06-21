@@ -6,7 +6,7 @@ LLM-Powered Wikipedia Chat Assistant with Retrieval-Augmented Generation (RAG)
   
 ## Dependencies
 
-To successfully run the code and reproduce the results, the following packages are required.
+To successfully run the code, the following packages are required.
 * python 3.9
 * llama-inde==0.8.33
 * chainlit==0.7.0
