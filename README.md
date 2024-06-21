@@ -13,6 +13,7 @@ To successfully run the code and reproduce the results, the following packages a
 * pydantic==1.10.17
 * openai==0.28.0
 
+## Usage
 ```bash
 # Clone the repository
 git clone https://github.com/Inf-YifanYang/Wikipedia-RAG-LLM.git
