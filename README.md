@@ -1,13 +1,10 @@
 # Wikipedia-RAG-LLM
 LLM-Powered Wikipedia Chat Assistant with Retrieval-Augmented Generation (RAG)
-- [Installation](#installation)
+- [Dependencies](#Dependencies)
 - [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
-## Installation
+- [Demo](#Demo)
+  
+## Dependencies
 
 Step-by-step instructions on how to get a development environment running.
 
